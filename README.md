@@ -17,5 +17,3 @@ A complete implementation of autoencoders with MNIST dataset
 - **最终验证损失**: 0.0928  
 - **模型结构**: 784 → 32 → 784 (压缩率约24:1)
 - **数据集**: MNIST (60,000训练 + 10,000测试样本)
-
-## 文件结构
